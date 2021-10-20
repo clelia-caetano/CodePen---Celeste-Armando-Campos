@@ -1,0 +1,28 @@
+{"QueryInvoiceRequest": {
+"ars:AcctAccessCode": {
+"arc:PrimaryIdentity": "?"
+},
+"ars:BillCycleID": "?"
+}
+}
+"QueryInvoiceResult": {
+"ars:InvoiceInfo": {
+"ars:AcctKey": "13800010001",
+"ars:CustKey": "13800010001",
+"ars:SubKey": "13800010001",
+"ars:PrimaryIdentity": "13800010001",
+"ars:TransType": "PPM",
+"ars:InvoiceID": "10006200230001",
+"ars:InvoiceNo": "10006200230001",
+"ars:BillCycleID": "20130904",
+"ars:BillCycleBeginTime": "20130901000000",
+"ars:BillCycleEndTime": "20131001000000",
+"ars:InvoiceAmount": "100",
+"ars:OpenAmount": "0",
+"ars:CurrencyID": "1049",
+"ars:InvoiceDate": "20131010140000",
+"ars:DueDate": "20131110020000",
+"ars:SettleDate": "20131010140000",
+"ars:Status": "O"
+}
+}
